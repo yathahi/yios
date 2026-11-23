@@ -16,10 +16,7 @@ import (
 
 func Containersetup() {
 
-	err := packagemanager.CheckComponentAvailability("lxc")
-	if err != nil {
-		slog.Error("Unable to install lxc!...")
-	}
+	packagemanager.PackageManager("lxc")
 
 	slog.Info("Initializing LXC Deployment...", "container", library.ProjectName)
 
