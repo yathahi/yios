@@ -110,7 +110,7 @@ git push origin feature/your-feature-name
 
 Open your fork on GitHub and select **Contribute → Open pull request**.
 
-Submit the pull request against the `main` branch of the original `yathahi/yathahi` repository.
+Submit the pull request against the `main` branch of the original `yathahi/yios` repository.
 
 Your pull request should include:
 

@@ -6,7 +6,7 @@ const (
 
 	EntrySocketPath string = "/tmp/yathahi.sock"
 
-	BinaryURL string = "https://raw.githubusercontent.com/yathahi/yathahi/main/packages/"
+	BinaryURL string = "https://raw.githubusercontent.com/yathahi/yios/main/packages/"
 
 	BinaryFolder string = "/opt/yathahi/bin/"
 
