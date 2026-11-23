@@ -19,7 +19,7 @@ func main() {
 
 		for {
 			receivedData := <-requestsChannel
-			packagemanager.CheckComponentAvailability(receivedData.Service)
+			packagemanager.PackageManager(receivedData.Service)
 		}
 	}()
 
