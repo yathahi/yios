@@ -2,7 +2,7 @@ blank_issues_enabled: true
 
 contact_links:
   - name: Yathahi Discussions
-    url: https://github.com/yathahi/yathahi/discussions
+    url: https://github.com/yathahi/yios/discussions
     about: Ask questions, share ideas, and discuss the project.
 
   - name: Official Email
